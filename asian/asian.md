@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## [Japanese](http://hibino-brooklyn.com/menu.html)
 ## [Thai](http://www.viewmenu.com/joya/menu?ref=google)
 ---
-Start Over
+[Start Over](../home.md)
